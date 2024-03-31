@@ -7,7 +7,7 @@ import sy.ojm.ojmapi.dto.FeedbackDTO;
 
 import java.util.Map;
 
-@CrossOrigin
+@CrossOrigin(origins = {"http://localhost:3000", "http://52.141.28.18:3000", "http://skok1025.shop:3000"})
 @RestController
 @RequestMapping(("/api/scape"))
 public class WebScrapingController {
