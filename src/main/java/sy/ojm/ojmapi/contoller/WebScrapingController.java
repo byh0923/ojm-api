@@ -10,7 +10,7 @@ import java.util.Map;
 @CrossOrigin(origins = {
         "http://localhost:3000",
         "http://skok1025.shop:3000",
-        "http://select-lunch.shop",
+        "http://select-lunch.shop:3000",
         "https://select-lunch.shop"
 })
 @RestController
