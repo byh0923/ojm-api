@@ -11,7 +11,8 @@ import java.util.Map;
         "http://localhost:3000",
         "http://skok1025.shop:3000",
         "http://select-lunch.shop:3000",
-        "https://select-lunch.shop"
+        "https://select-lunch.shop",
+        "https://shkim3000.cafe24.com:9090"
 })
 @RestController
 @RequestMapping(("/api/scape"))
